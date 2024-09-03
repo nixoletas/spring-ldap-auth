@@ -5,7 +5,7 @@ Este repositório é uma base para o projeto real de cautela e controle de mater
 Camada de autenticação LDAP
 
 ```
-joe:joespassword
+bob:bobspassword
 ```
 
 #### Ben NÃO vai funcionar
